@@ -1,3 +1,4 @@
 # members:
-  Rocky Calo
-  Ana Rose Nola
+  1. Rocky Leo Calo
+  2. Ana Rose Nola
+  
